@@ -1,5 +1,5 @@
 class TestsController < ApplicationController
-  def index
+  def method_name
     
   end
 end
